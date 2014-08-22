@@ -1,0 +1,79 @@
+*** NativeChurch Changelog ***
+16 March 2014- Version 1.0
+	
+	* First Release
+
+19 March 2014- Version 1.1
+	* Fixed bug with widgets width
+	* Fixed Widgets title double bottom border
+	* Updated the documentation
+	* Header image option for Pages.
+	* Bugs removed from 404
+	* Bugs removed from Theme Options
+	* Thumbnail size removed
+	* Event widget updated category option given
+	* page.php class changed
+	* Sermon template, taxonomy sermon changed for Sermon Speaker
+	* Theme update file removed
+	* Recent Sermon widget updated
+	* Some issues rectified from all gallery template
+	* Shortcodes files updated
+	* Header.php updated  
+
+25 March 2014- Version 1.2
+
+	* Fixed bug featured sermon in widget not showing audio/pdf links
+	* Fixed theme not giving recommended plugins notice
+	* NEW FEATURE! Ability to add unlimited sidebars
+	* NEW FEATURE! Staff posts single pages
+	* Fixed bug on events grid page showing only current month events
+	* Fixed bug on contact function subject line
+	* Fixed when no event is created javascript stop working on homepage
+ 
+
+6 April 2014- Version 1.3
+
+	* Fixed image floats in content
+	* Fixed some typos on event page
+	* NEW FEATURE! Recurring Events
+	* NEW FEATURE! Mega Menu
+	* NEW FEATURE! Back to to link
+	* NEW FEATURE! Change height of header from theme options
+	* NEW FEATURE! Option to choose limit of recent posts on homepage
+	* Fixed Background problem with boxed layout
+	* BUG Fixed Pastors list comma separation
+	* Fixed Staff shortcode bug
+	* NEW FEATURE! Instagram social icon for footer
+	* NEW FEATURE! Email option for staff members
+	* NEW FEATURE! Columns width increase when no featured image found
+	* NEW FEATURE! Vimeo/Youtube video embedding shortcode
+	* NEA FEATURE! Team members order by page order number
+
+6 April 2014- Version 1.3.1
+
+	* FIXED! hidden Events tab from Dashboard when activating some plugins
+	* NEW FEATURE! Change height of header from theme options
+	* FIXED! Navigation on android phones Google Chrome
+	* NEW FEATURE! Vimeo icon added to footer social icons
+
+22 April 2014- Version 1.4
+
+	* NEW FEATURE! 5 new page templates
+	* NEW FEATURE! Default header image for inner pages
+	* NEW FEATURE! Caption/Link options for slider images
+	* NEW FEATURE! Footer Columns Selection
+	* NEW FEATURE! Homepage slideshow controls in theme options
+	* NEW FEATURE! Job title field for staff post types
+	* NEW FEATURE! Custom time input for events
+	* NEW FEATURE! Option to repeat events every month
+	* NEW FEATURE! Excerpt content field for staff post type
+	* FIXED! All events link on homepage not displaying for some users
+	* NEW FEATURE! Spanish, French, Portuguese language .po/.mo files added
+	* FIXED! Wordpress 3.9 support added to theme
+	* NEW FEATURE! Now add custom menus in to mega menus
+	* NEW FEATURE! New columns short code added
+	* FIXED! Child Theme not overriding style.css of main theme 
+	* FIXED! Event sorting bug on blog type layout
+
+
+

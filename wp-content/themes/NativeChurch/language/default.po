@@ -1,0 +1,3078 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NativeChurch\n"
+"POT-Creation-Date: 2014-04-05 14:59+0530\n"
+"PO-Revision-Date: 2014-04-05 15:03+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:12
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: 404.php:16
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: comments.php:5
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:19
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:19
+msgid "Comment(1)"
+msgstr ""
+
+#: comments.php:19
+msgid "Comments(%)"
+msgstr ""
+
+#: comments.php:33
+msgid "Comments are now closed for this article."
+msgstr ""
+
+#: comments.php:41
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:55
+msgid "Post a comment"
+msgstr ""
+
+#: comments.php:55
+#, php-format
+msgid "Post a comment to %s"
+msgstr ""
+
+#: comments.php:60
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr ""
+
+#: comments.php:65
+#, php-format
+msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr ""
+
+#: comments.php:65
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:96
+msgid "Submit your comment"
+msgstr ""
+
+#: footer.php:23
+msgid "&copy; "
+msgstr ""
+
+#: footer.php:23
+msgid ". "
+msgstr ""
+
+#: functions.php:30
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:31
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:32
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:140
+msgid " at "
+msgstr ""
+
+#: functions.php:145
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:161
+msgid "read more"
+msgstr ""
+
+#: header.php:167
+msgid "Show All"
+msgstr ""
+
+#: header.php:179 header.php:185 header.php:221 header.php:263
+msgid "All Posts For - "
+msgstr ""
+
+#: header.php:189
+msgid "Error 404"
+msgstr ""
+
+#: header.php:194
+#, php-format
+msgid "Search Results for :  %s"
+msgstr ""
+
+#: header.php:199
+msgid "Blog"
+msgstr ""
+
+#: header.php:235
+msgid "All sermons"
+msgstr ""
+
+#: header.php:256 template-events.php:29
+#: imic-framework/imic-theme-functions.php:525
+msgid "All events"
+msgstr ""
+
+#: index.php:26 search.php:20 single.php:7 tag.php:20
+#: taxonomy-event-category.php:58
+msgid "No comments yet"
+msgstr ""
+
+#: index.php:26 search.php:20 single.php:7 tag.php:20
+#: taxonomy-event-category.php:58
+msgid "Comments are off for this post"
+msgstr ""
+
+#: index.php:29 search.php:23 tag.php:23 taxonomy-event-category.php:61
+msgid "Continue reading"
+msgstr ""
+
+#: index.php:37 search.php:31 tag.php:31 taxonomy-event-category.php:70
+#: template-blog-masonry.php:43
+msgid "No posts to display"
+msgstr ""
+
+#: index.php:38 search.php:32 tag.php:32 taxonomy-event-category.php:71
+#: template-blog-masonry.php:44
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: index.php:40 search.php:34 tag.php:34 taxonomy-event-category.php:73
+#: template-blog-masonry.php:46
+msgid "Nothing Found"
+msgstr ""
+
+#: index.php:41 search.php:35 tag.php:35 taxonomy-event-category.php:74
+#: template-blog-masonry.php:47
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post.."
+msgstr ""
+
+#: single-event.php:35
+msgid " to"
+msgstr ""
+
+#: single-event.php:101
+msgid "Event details"
+msgstr ""
+
+#: single-sermons.php:12 taxonomy-sermons-category.php:28
+#: template-sermons.php:38 imic-framework/widgets/recent_sermons.php:82
+msgid "Video"
+msgstr ""
+
+#: single-sermons.php:17 taxonomy-sermons-category.php:32
+#: template-sermons.php:42 imic-framework/meta-boxes.php:277
+#: imic-framework/widgets/recent_sermons.php:87
+msgid "Audio"
+msgstr ""
+
+#: single-sermons.php:20 imic-framework/widgets/recent_sermons.php:90
+msgid "Download Audio"
+msgstr ""
+
+#: single-sermons.php:25 taxonomy-sermons-category.php:38
+#: template-sermons.php:48 imic-framework/widgets/recent_sermons.php:95
+msgid "Download PDF"
+msgstr ""
+
+#: single.php:13 taxonomy-sermons-category.php:22 template-sermons.php:32
+msgid "Posted on "
+msgstr ""
+
+#: single.php:18
+msgid "Categories: "
+msgstr ""
+
+#: taxonomy-sermons-category.php:34 template-sermons.php:44
+msgid "Read online"
+msgstr ""
+
+#: taxonomy-sermons-category.php:57 template-sermons.php:67
+msgid "Continue reading "
+msgstr ""
+
+#: template-blog-masonry.php:58 template-events_grid.php:99
+#: template-gallery-masonry.php:81
+msgid "&larr;Older"
+msgstr ""
+
+#: template-blog-masonry.php:59 template-events_grid.php:100
+#: template-gallery-masonry.php:82
+msgid " Newer &rarr;"
+msgstr ""
+
+#: template-contact.php:8
+msgid "Contact Form"
+msgstr ""
+
+#: template-events.php:177 imic-framework/imic-theme-functions.php:608
+msgid "Sorry, there are no events for this month."
+msgstr ""
+
+#: template-events.php:237 imic-framework/imic-theme-functions.php:640
+msgid "Details"
+msgstr ""
+
+#: template-home.php:118 imic-framework/widgets/upcoming_events.php:145
+msgid "No Upcoming Events Found"
+msgstr ""
+
+#: template-home.php:127
+msgid "Next"
+msgstr ""
+
+#: template-home.php:127
+msgid "Upcoming Event"
+msgstr ""
+
+#: template-home.php:133
+msgid "days"
+msgstr ""
+
+#: template-home.php:134
+msgid "hrs"
+msgstr ""
+
+#: template-home.php:135
+msgid "mins"
+msgstr ""
+
+#: template-home.php:136
+msgid "secs"
+msgstr ""
+
+#: template-home.php:145
+msgid "All Events"
+msgstr ""
+
+#: template-home.php:178
+msgid "More Coming Events"
+msgstr ""
+
+#: template-home.php:202
+msgid "Latest News"
+msgstr ""
+
+#: template-home.php:231
+msgid "on "
+msgstr ""
+
+#: template-home.php:270
+msgid "Updates from our gallery"
+msgstr ""
+
+#: template-home.php:272
+msgid "More Galleries"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:164
+#: imic-framework/plugin-includes.php:80
+msgid "Install Required Plugins"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:165
+#: imic-framework/plugin-includes.php:81
+msgid "Install Plugins"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:166
+#: imic-framework/plugin-includes.php:82
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:178
+#: imic-framework/class-tgm-plugin-activation.php:490
+#: imic-framework/plugin-includes.php:94
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:179
+#: imic-framework/class-tgm-plugin-activation.php:1846
+#: imic-framework/plugin-includes.php:95
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:517
+#: imic-framework/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1299
+#: imic-framework/imic-shortcodes/imic-interface.php:152
+msgid "Type"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1956
+#: imic-framework/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1956
+#: imic-framework/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: imic-framework/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: imic-framework/imic-theme-functions.php:69
+msgid "We are currently in maintenance mode, please check back shortly."
+msgstr ""
+
+#: imic-framework/imic-theme-functions.php:69
+msgid "Maintenance Mode"
+msgstr ""
+
+#: imic-framework/imic-theme-functions.php:107 includes/sample-config.php:645
+msgid "Theme Options"
+msgstr ""
+
+#: imic-framework/imic-theme-functions.php:114
+msgid "Color Customizer"
+msgstr ""
+
+#: imic-framework/imic-theme-functions.php:432
+msgid "Home Page Sidebar"
+msgstr ""
+
+#: imic-framework/imic-theme-functions.php:442
+msgid "Contact Sidebar"
+msgstr ""
+
+#: imic-framework/imic-theme-functions.php:452
+msgid "Inner Page Sidebar"
+msgstr ""
+
+#: imic-framework/imic-theme-functions.php:462
+msgid "Sermons Sidebar"
+msgstr ""
+
+#: imic-framework/imic-theme-functions.php:472
+msgid "Event Page Sidebar"
+msgstr ""
+
+#: imic-framework/imic-theme-functions.php:482
+msgid "Single Event Page Sidebar"
+msgstr ""
+
+#: imic-framework/imic-theme-functions.php:492
+msgid "Post Sidebar"
+msgstr ""
+
+#: imic-framework/imic-theme-functions.php:502
+msgid "Footer Sidebar"
+msgstr ""
+
+#: imic-framework/imic-theme-functions.php:686
+#: imic-framework/custom-post-types/event-type.php:29
+msgid "Event"
+msgstr ""
+
+#: imic-framework/imic-theme-functions.php:687
+#: imic-framework/meta-boxes.php:170
+msgid "Attendees"
+msgstr ""
+
+#: imic-framework/imic-theme-functions.php:688
+#: imic-framework/custom-post-types/staff-type.php:12
+#: imic-framework/custom-post-types/staff-type.php:13
+#: imic-framework/imic-shortcodes/imic-interface.php:62
+#: imic-framework/imic-shortcodes/imic-interface.php:527
+msgid "Staff"
+msgstr ""
+
+#: imic-framework/imic-theme-functions.php:689
+msgid "Recurring"
+msgstr ""
+
+#: imic-framework/imic-theme-functions.php:842
+msgid "Select Sidebar from list"
+msgstr ""
+
+#: imic-framework/imic-theme-functions.php:900
+msgid "Mega Menu"
+msgstr ""
+
+#: imic-framework/imic-theme-functions.php:918
+msgid "Create Column"
+msgstr ""
+
+#: imic-framework/imic-theme-functions.php:924
+msgid "Column"
+msgstr ""
+
+#: imic-framework/imic-theme-functions.php:931
+msgid "Add to Menu"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:11
+msgid "Staff Member Meta"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:16 includes/sample-config.php:1487
+msgid "Facebook"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:18
+msgid "Enter the staff member's Facebook URL."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:25 includes/sample-config.php:1519
+msgid "Twitter"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:27
+msgid "Enter the staff member's Twitter username."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:34 includes/sample-config.php:1583
+msgid "Google+"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:36
+msgid "Enter the staff member's Google+ URL."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:42 includes/sample-config.php:1551
+msgid "Pinterest"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:44
+msgid "Enter the staff member's Pinterest URL."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:50 imic-framework/meta-boxes.php:294
+msgid "Email"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:52
+msgid "Enter the staff member's Email."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:63
+msgid "Event Details Meta Box"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:68
+msgid "Event Start Date"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:70
+msgid "Insert date of Event start."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:73 imic-framework/meta-boxes.php:86
+msgid "yy-mm-dd"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:81
+msgid " Event End Date"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:83
+msgid "Insert date of Event end."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:94
+msgid "Event Start Time"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:101
+msgid "Event End Time"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:108
+msgid "Address"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:110
+msgid "Enter event's address."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:117
+msgid "Contact Number"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:119
+msgid "Enter event's contact number."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:127
+msgid "Event Recurrence Box"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:132
+msgid "Event Frequency"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:134
+msgid "Select Frequency."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:137
+msgid "Not Required"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:138
+msgid "Every Day"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:139
+msgid "Every Second Day"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:140
+msgid "Every Third Day"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:141
+msgid "Every Fourth Day"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:142
+msgid "Every Fifth Day"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:143
+msgid "Every Sixth Day"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:144
+msgid "Every Week"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:149
+msgid "Number of times to repeat event"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:151
+msgid "Enter the number of how many time this event should repeat."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:155
+msgid "Do not change"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:157
+msgid ""
+"If any changes done in this file, may your theme will not work like running "
+"now."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:165
+msgid "Total Persons Details Meta Box"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:172
+msgid "Enter number of attendees."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:177
+#: imic-framework/custom-post-types/staff-type.php:14
+msgid "Staff Members"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:179
+msgid "Enter number of staff members."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:188
+msgid "Gallery  Meta Box"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:193
+msgid "Video Url"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:195
+msgid "Enter the Video URL."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:200
+msgid "Link Url"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:202
+msgid "Enter the Link URL."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:207
+msgid "Gallery Image"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:209
+msgid "Enter Gallery Image."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:218
+msgid "Custom Title  Meta Box"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:223
+msgid "Custom Title"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:225
+msgid "Enter Custom Title."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:229
+msgid "Header Image"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:231
+msgid "Upload image for header for this Page/Post."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:241
+msgid "Custom Description  Meta Box"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:246
+msgid "Custom Description"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:248
+msgid "Enter Custom Description."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:257
+msgid "Sermons  Meta Box"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:262
+msgid "Upload Pdf"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:264
+msgid "Upload Pdf for Sermons."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:270
+msgid "Sermons Url"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:272
+msgid "Enter vimeo/youtube url for Sermons."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:279
+msgid "Upload Audio."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:288
+msgid "Email & Subject"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:296
+msgid "Enter Email to Use in contact Form in default admin email used."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:302
+msgid "Subject"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:304
+msgid "Enter Subject to Use in contact Page."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:312
+msgid "Map Box"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:318
+msgid "Our Location Text"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:320
+msgid "Enter the Our Location Text to display on cotact page."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:325
+msgid "Map Display"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:327
+msgid "Select Map Display."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:330
+#: imic-framework/imic-shortcodes/imic-interface.php:535
+#: imic-framework/imic-shortcodes/imic-interface.php:557
+msgid "No"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:331
+#: imic-framework/imic-shortcodes/imic-interface.php:536
+#: imic-framework/imic-shortcodes/imic-interface.php:556
+msgid "Yes"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:336
+msgid "Map Box Code"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:338
+msgid "Enter the code to display on cotact page."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:346
+msgid "Slider Metabox"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:352
+msgid "Slider Image"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:354
+msgid "Enter Slider Image."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:361
+msgid "Custom Title and Url Metabox"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:367
+msgid "Custom Latest News Title"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:369
+msgid "Enter Custom Latest News Title."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:374
+msgid "Custom More Upcoming Events Title"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:376
+msgid "Enter More Upcoming Events Title."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:381
+msgid "Custom Gallery Title"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:383
+msgid "Enter Custom Gallery Title."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:387
+msgid "Custom More Galleries Title"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:389
+msgid "Enter Custom More Galleries Title."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:393
+msgid "Custom More Galleries Url"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:395
+msgid "Enter Custom More Galleries Url."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:402
+msgid "Galleries Metabox"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:407
+msgid "Number of Galleries to show on home page."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:409
+msgid "Enter the number of Galleries to show on Home page example - 3 ."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:417
+msgid "Featured Blocks Metabox"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:422
+msgid "Featured Blocks to show on home page."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:424
+msgid ""
+"Enter the Featured Block comma separated Id to show on Home page example - "
+"1,2,3"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:429
+msgid "Featured Blocks First title to show on home page."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:431
+msgid "Enter the Featured Block First title to show on Home"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:436
+msgid "Featured Blocks Second title to show on home page."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:438
+msgid "Enter the Featured Block Second title to show on Home"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:443
+msgid "Featured Blocks Third title to show on home page."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:445
+msgid "Enter the Featured Block Third title to show on Home"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:453
+msgid "Recent Posts Metabox"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:458
+msgid "Number of Recent Posts to show on home page."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:460
+msgid "Enter the number of Recent Posts to show on Home page example - 3 ."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:468 imic-framework/meta-boxes.php:492
+#: imic-framework/meta-boxes.php:516 imic-framework/meta-boxes.php:533
+msgid "Gallery to show"
+msgstr ""
+
+#: imic-framework/meta-boxes.php:474 imic-framework/meta-boxes.php:498
+#: imic-framework/meta-boxes.php:522
+msgid "Number of Gallery to show."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:476 imic-framework/meta-boxes.php:500
+#: imic-framework/meta-boxes.php:524
+msgid "Enter the number of gallery  to show on Gallery page example - 3 ."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:481 imic-framework/meta-boxes.php:505
+#: imic-framework/meta-boxes.php:538
+msgid "Gallery Columns Layout."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:483 imic-framework/meta-boxes.php:507
+msgid ""
+"Enter the number of Columns for Layout  to show on Gallery page example - 3 ."
+msgstr ""
+
+#: imic-framework/meta-boxes.php:540
+msgid ""
+"Enter the number of Columns for Layout  to show on Gallery Filter page "
+"example - 3 ."
+msgstr ""
+
+#: imic-framework/plugin-includes.php:83
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: imic-framework/plugin-includes.php:96
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: imic-framework/custom-post-types/event-type.php:14
+msgid "Event Categories"
+msgstr ""
+
+#: imic-framework/custom-post-types/event-type.php:15
+msgid "Event Category"
+msgstr ""
+
+#: imic-framework/custom-post-types/event-type.php:28
+msgid "Events"
+msgstr ""
+
+#: imic-framework/custom-post-types/event-type.php:30
+#: imic-framework/custom-post-types/gallery-type.php:30
+#: imic-framework/custom-post-types/sermon-type.php:53
+#: imic-framework/custom-post-types/staff-type.php:15
+msgid "Add New"
+msgstr ""
+
+#: imic-framework/custom-post-types/event-type.php:31
+msgid "Add New Event"
+msgstr ""
+
+#: imic-framework/custom-post-types/event-type.php:32
+msgid "Edit Event"
+msgstr ""
+
+#: imic-framework/custom-post-types/event-type.php:33
+msgid "New Event"
+msgstr ""
+
+#: imic-framework/custom-post-types/event-type.php:34
+msgid "View Event"
+msgstr ""
+
+#: imic-framework/custom-post-types/event-type.php:35
+msgid "Search Event"
+msgstr ""
+
+#: imic-framework/custom-post-types/event-type.php:36
+msgid "No events have been added yet"
+msgstr ""
+
+#: imic-framework/custom-post-types/event-type.php:37
+#: imic-framework/custom-post-types/gallery-type.php:38
+#: imic-framework/custom-post-types/sermon-type.php:60
+#: imic-framework/custom-post-types/staff-type.php:22
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: imic-framework/custom-post-types/gallery-type.php:13
+msgid "Gallery Categories"
+msgstr ""
+
+#: imic-framework/custom-post-types/gallery-type.php:14
+msgid "Gallery Category"
+msgstr ""
+
+#: imic-framework/custom-post-types/gallery-type.php:28
+msgid "Gallery"
+msgstr ""
+
+#: imic-framework/custom-post-types/gallery-type.php:29
+msgid "Gallery Item"
+msgstr ""
+
+#: imic-framework/custom-post-types/gallery-type.php:31
+msgid "Gallery items"
+msgstr ""
+
+#: imic-framework/custom-post-types/gallery-type.php:32
+msgid "Add New Gallery Item"
+msgstr ""
+
+#: imic-framework/custom-post-types/gallery-type.php:33
+msgid "Edit Gallery Item"
+msgstr ""
+
+#: imic-framework/custom-post-types/gallery-type.php:34
+msgid "New Gallery Item"
+msgstr ""
+
+#: imic-framework/custom-post-types/gallery-type.php:35
+msgid "View Gallery Item"
+msgstr ""
+
+#: imic-framework/custom-post-types/gallery-type.php:36
+msgid "Search Gallery"
+msgstr ""
+
+#: imic-framework/custom-post-types/gallery-type.php:37
+msgid "No gallery items have been added yet"
+msgstr ""
+
+#: imic-framework/custom-post-types/sermon-type.php:12
+msgid "Sermons Categories"
+msgstr ""
+
+#: imic-framework/custom-post-types/sermon-type.php:13
+msgid "Sermons Category"
+msgstr ""
+
+#: imic-framework/custom-post-types/sermon-type.php:25
+#: imic-framework/custom-post-types/sermon-type.php:26
+msgid "Sermons Tag"
+msgstr ""
+
+#: imic-framework/custom-post-types/sermon-type.php:38
+#: imic-framework/custom-post-types/sermon-type.php:39
+msgid "Sermons Speakers"
+msgstr ""
+
+#: imic-framework/custom-post-types/sermon-type.php:51
+msgid "Sermons"
+msgstr ""
+
+#: imic-framework/custom-post-types/sermon-type.php:52
+msgid "Sermons Item"
+msgstr ""
+
+#: imic-framework/custom-post-types/sermon-type.php:54
+msgid "Add New Sermons Item"
+msgstr ""
+
+#: imic-framework/custom-post-types/sermon-type.php:55
+msgid "Edit Sermons Item"
+msgstr ""
+
+#: imic-framework/custom-post-types/sermon-type.php:56
+msgid "New Sermons Item"
+msgstr ""
+
+#: imic-framework/custom-post-types/sermon-type.php:57
+msgid "View Sermons Item"
+msgstr ""
+
+#: imic-framework/custom-post-types/sermon-type.php:58
+msgid "Search Sermons"
+msgstr ""
+
+#: imic-framework/custom-post-types/sermon-type.php:59
+msgid "No sermons items have been added yet"
+msgstr ""
+
+#: imic-framework/custom-post-types/staff-type.php:16
+msgid "Add New Staff"
+msgstr ""
+
+#: imic-framework/custom-post-types/staff-type.php:17
+msgid "Edit Staff"
+msgstr ""
+
+#: imic-framework/custom-post-types/staff-type.php:18
+msgid "New Staff"
+msgstr ""
+
+#: imic-framework/custom-post-types/staff-type.php:19
+msgid "View Staff"
+msgstr ""
+
+#: imic-framework/custom-post-types/staff-type.php:20
+msgid "Search Staff"
+msgstr ""
+
+#: imic-framework/custom-post-types/staff-type.php:21
+msgid "No staff have been added yet"
+msgstr ""
+
+#: imic-framework/imic-megamenu/edit_custom_walker.php:82
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: imic-framework/imic-megamenu/edit_custom_walker.php:86
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: imic-framework/imic-megamenu/edit_custom_walker.php:122
+msgid "Edit Menu Item"
+msgstr ""
+
+#: imic-framework/imic-megamenu/edit_custom_walker.php:131
+msgid "URL"
+msgstr ""
+
+#: imic-framework/imic-megamenu/edit_custom_walker.php:138
+msgid "Navigation Label"
+msgstr ""
+
+#: imic-framework/imic-megamenu/edit_custom_walker.php:144
+msgid "Title Attribute"
+msgstr ""
+
+#: imic-framework/imic-megamenu/edit_custom_walker.php:151
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: imic-framework/imic-megamenu/edit_custom_walker.php:156
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: imic-framework/imic-megamenu/edit_custom_walker.php:162
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: imic-framework/imic-megamenu/edit_custom_walker.php:168
+msgid "Description"
+msgstr ""
+
+#: imic-framework/imic-megamenu/edit_custom_walker.php:170
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: imic-framework/imic-megamenu/edit_custom_walker.php:175
+msgid "Move"
+msgstr ""
+
+#: imic-framework/imic-megamenu/edit_custom_walker.php:176
+msgid "Up one"
+msgstr ""
+
+#: imic-framework/imic-megamenu/edit_custom_walker.php:177
+msgid "Down one"
+msgstr ""
+
+#: imic-framework/imic-megamenu/edit_custom_walker.php:180
+msgid "To the top"
+msgstr ""
+
+#: imic-framework/imic-megamenu/edit_custom_walker.php:192
+msgid "Enable Mega Menu"
+msgstr ""
+
+#: imic-framework/imic-megamenu/edit_custom_walker.php:203
+#: imic-framework/widgets/custom_category.php:29
+#: imic-framework/widgets/selected_post.php:33
+msgid "Select Post Type"
+msgstr ""
+
+#: imic-framework/imic-megamenu/edit_custom_walker.php:215
+msgid "Enter Number of Post Ex-3"
+msgstr ""
+
+#: imic-framework/imic-megamenu/edit_custom_walker.php:220
+msgid "Enter Comma seperated value Ex-1,2,3"
+msgstr ""
+
+#: imic-framework/imic-megamenu/edit_custom_walker.php:239
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: imic-framework/imic-megamenu/edit_custom_walker.php:251
+#: imic-framework/meta-box/inc/fields/file-input.php:42
+#: includes/core/inc/fields/media/field_media.php:133
+msgid "Remove"
+msgstr ""
+
+#: imic-framework/imic-megamenu/edit_custom_walker.php:252
+msgid "Cancel"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:18
+msgid "IMIC Framework Shortcodes"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:46
+msgid "Select a shortcode"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:48
+msgid "Shortcode"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:51
+#: imic-framework/imic-shortcodes/imic-interface.php:651
+msgid "Accordions"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:52
+msgid "Button"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:53
+#: imic-framework/imic-shortcodes/imic-interface.php:326
+msgid "Columns"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:54
+#: imic-framework/imic-shortcodes/imic-interface.php:447
+msgid "Counters"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:55
+#: imic-framework/imic-shortcodes/imic-interface.php:681
+msgid "Form"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:56
+#: imic-framework/imic-shortcodes/imic-interface.php:138
+msgid "Icons"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:57
+#: imic-framework/imic-shortcodes/imic-interface.php:482
+msgid "Image"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:58
+#: imic-framework/imic-shortcodes/imic-interface.php:594
+msgid "Lists"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:59
+#: imic-framework/imic-shortcodes/imic-interface.php:397
+msgid "Modal Box"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:60
+#: imic-framework/imic-shortcodes/imic-interface.php:508
+msgid "Pagination"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:61
+#: imic-framework/imic-shortcodes/imic-interface.php:356
+msgid "Progress Bar"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:63
+#: imic-framework/imic-shortcodes/imic-interface.php:545
+msgid "Table"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:64
+#: imic-framework/imic-shortcodes/imic-interface.php:420
+msgid "Tooltip"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:65
+#: imic-framework/imic-shortcodes/imic-interface.php:150
+msgid "Typography"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:66
+#: imic-framework/imic-shortcodes/imic-interface.php:637
+msgid "Tabs"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:67
+#: imic-framework/imic-shortcodes/imic-interface.php:666
+msgid "Toggles"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:68
+#: imic-framework/imic-shortcodes/imic-interface.php:127
+msgid "Fullscreen Video"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:76
+msgid "Buttons"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:78
+msgid "Button colour"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:80
+#: imic-framework/imic-shortcodes/imic-interface.php:110
+#: imic-framework/imic-shortcodes/imic-interface.php:310
+#: imic-framework/imic-shortcodes/imic-interface.php:471
+#: imic-framework/imic-shortcodes/imic-interface.php:512
+#: includes/core/framework.php:1303
+msgid "Default"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:81
+#: imic-framework/imic-shortcodes/imic-interface.php:311
+#: imic-framework/imic-shortcodes/imic-interface.php:383
+msgid "Primary"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:82
+#: imic-framework/imic-shortcodes/imic-interface.php:235
+#: imic-framework/imic-shortcodes/imic-interface.php:312
+#: imic-framework/imic-shortcodes/imic-interface.php:384
+msgid "Success"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:83
+#: imic-framework/imic-shortcodes/imic-interface.php:234
+#: imic-framework/imic-shortcodes/imic-interface.php:313
+#: imic-framework/imic-shortcodes/imic-interface.php:385
+msgid "Info"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:84
+#: imic-framework/imic-shortcodes/imic-interface.php:232
+#: imic-framework/imic-shortcodes/imic-interface.php:314
+#: imic-framework/imic-shortcodes/imic-interface.php:386
+msgid "Warning"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:85
+#: imic-framework/imic-shortcodes/imic-interface.php:315
+#: imic-framework/imic-shortcodes/imic-interface.php:387
+msgid "Danger"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:89
+msgid "Button type"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:91
+#: includes/sample-config.php:1061
+msgid "Enabled"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:92
+#: includes/sample-config.php:1065
+msgid "Disabled"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:96
+#: imic-framework/imic-shortcodes/imic-interface.php:97
+msgid "Button text"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:100
+msgid "Button URL"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:104
+msgid "Open link in a new window?"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:108
+msgid "Button Size"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:111
+msgid "Extra Small"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:112
+#: imic-framework/imic-shortcodes/imic-interface.php:513
+msgid "Small"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:113
+#: imic-framework/imic-shortcodes/imic-interface.php:514
+msgid "Large"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:117
+msgid "Button Extra Class"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:129
+msgid "Video URL"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:131
+msgid ""
+"Enter the video URL here. Vimeo/YouTube are supported, and please make sure "
+"you enter the full video URL, not shortened, and HTTP only."
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:140
+#: imic-framework/imic-shortcodes/imic-interface.php:464
+msgid "Icon image"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:155
+#: imic-framework/imic-shortcodes/imic-interface.php:172
+msgid "Anchor Tag"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:156
+#: imic-framework/imic-shortcodes/imic-interface.php:208
+msgid "Heading"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:157
+#: imic-framework/imic-shortcodes/imic-interface.php:184
+msgid "Paragraph"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:158
+#: imic-framework/imic-shortcodes/imic-interface.php:192
+msgid "Span Tag"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:159
+#: imic-framework/imic-shortcodes/imic-interface.php:200
+msgid "Divider"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:160
+#: imic-framework/imic-shortcodes/imic-interface.php:275
+msgid "Container"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:161
+#: imic-framework/imic-shortcodes/imic-interface.php:227
+msgid "Alert Box"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:162
+#: imic-framework/imic-shortcodes/imic-interface.php:245
+msgid "Blockquote"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:163
+#: imic-framework/imic-shortcodes/imic-interface.php:253
+msgid "Dropcap"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:164
+#: imic-framework/imic-shortcodes/imic-interface.php:264
+msgid "Code"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:165
+#: imic-framework/imic-shortcodes/imic-interface.php:306
+msgid "Label"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:166
+#: imic-framework/imic-shortcodes/imic-interface.php:291
+msgid "Spacer"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:167
+#: imic-framework/imic-shortcodes/imic-interface.php:283
+msgid "Section"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:174
+msgid "Anchor Link"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:178
+#: imic-framework/imic-shortcodes/imic-interface.php:186
+#: imic-framework/imic-shortcodes/imic-interface.php:194
+#: imic-framework/imic-shortcodes/imic-interface.php:202
+#: imic-framework/imic-shortcodes/imic-interface.php:221
+#: imic-framework/imic-shortcodes/imic-interface.php:277
+#: imic-framework/imic-shortcodes/imic-interface.php:285
+#: imic-framework/imic-shortcodes/imic-interface.php:339
+#: imic-framework/imic-shortcodes/imic-interface.php:628
+msgid "Add Extra Class"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:210
+msgid "Select Heading Tag"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:212
+msgid "H1"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:213
+msgid "H2"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:214
+#: imic-framework/imic-shortcodes/imic-interface.php:472
+msgid "H3"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:215
+msgid "H4"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:216
+msgid "H5"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:217
+#: imic-framework/imic-shortcodes/imic-interface.php:473
+msgid "H6"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:229
+msgid "Select Alert Box type"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:231
+#: imic-framework/imic-shortcodes/imic-interface.php:268
+#: imic-framework/imic-shortcodes/imic-interface.php:375
+msgid "Standard"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:233
+msgid "Error"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:239
+msgid "Add Close Button"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:247
+msgid "Blockquote Author Name"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:255
+msgid "Dropcap Type"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:257
+msgid "Style 1"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:258
+msgid "Style 2"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:266
+msgid "Code Type"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:269
+msgid "Inline"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:293
+msgid "Select Spacer"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:295
+msgid "Spacer-20"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:296
+msgid "Spacer-30"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:297
+msgid "Spacer-40"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:298
+msgid "Spacer-50"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:299
+msgid "Spacer-75"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:300
+msgid "Spacer-100"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:308
+msgid "Select Label Tag"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:316
+msgid "Dark"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:328
+msgid "Layout"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:331
+#: imic-framework/imic-shortcodes/imic-interface.php:564
+#: imic-framework/imic-shortcodes/imic-interface.php:576
+#: imic-framework/imic-shortcodes/imic-interface.php:614
+msgid "1"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:332
+msgid "1/2 + 1/2"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:333
+msgid "1/3 + 1/3 + 1/3"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:334
+msgid "1/4 + 1/4 + 1/4 + 1/4"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:335
+msgid "1/6 + 1/6 + 1/6 + 1/6 + 1/6 + 1/6"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:343
+msgid "Animation"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:346
+msgid "From Right"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:347
+msgid "From Left"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:358
+msgid "Percentage"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:360
+msgid "Enter the percentage of the progress bar."
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:363
+msgid "Progress Text"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:365
+msgid "Enter the text that you'd like shown above the bar, i.e. \"COMPLETED\"."
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:368
+msgid "Progress Value"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:370
+msgid ""
+"Enter value that you'd like shown at the end of the bar on completion, i.e. "
+"\"90\"."
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:373
+msgid "Progress Bar Type"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:376
+msgid "Striped"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:377
+msgid "Colored"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:381
+msgid "Progress Bar Colour Type"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:389
+msgid "Select progress bar color for progress bar type striped and colored."
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:399
+msgid "Modal Box ID"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:403
+msgid "Modal Box Title"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:407
+msgid "Modal Box Body Text"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:411
+msgid "Modal Box Button Text"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:422
+msgid "Text"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:424
+msgid "Enter the text for the tooltip."
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:427
+msgid "Link"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:429
+msgid "Enter the link that the tooltip text links to."
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:432
+msgid "Direction"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:434
+msgid "Top"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:435
+msgid "Bottom"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:436
+msgid "Left"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:437
+msgid "Right"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:439
+msgid "Choose the direction in which the tooltip appears."
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:449
+msgid "To Value"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:451
+msgid "Enter the number from which the counter counts up to."
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:454
+msgid "Subject Text"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:456
+msgid "Enter the text which you would like to show below the counter."
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:459
+msgid "Speed"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:461
+msgid ""
+"Enter the time you want the counter to take to complete, this is in "
+"milliseconds and optional. The default is 2000."
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:469
+msgid "Text style"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:484
+msgid "Image URL"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:486
+msgid ""
+"Provide the URL here for the background image that you would like to use."
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:489
+msgid "Image Width"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:491
+msgid "Provide image width in pixels."
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:494
+msgid "Image Height"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:496
+msgid "Provide image height in pixels."
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:499
+msgid "Add Extra class"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:510
+msgid "Pagination Size"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:518
+msgid "Number of Pagination"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:529
+msgid "Number of Staff"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:533
+msgid "Order By Menu"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:547
+msgid "Table style"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:549
+msgid "Striped table"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:550
+msgid "Bordered table"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:554
+msgid "Table Head"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:562
+msgid "Number of columns"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:565
+#: imic-framework/imic-shortcodes/imic-interface.php:577
+#: imic-framework/imic-shortcodes/imic-interface.php:615
+msgid "2"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:566
+#: imic-framework/imic-shortcodes/imic-interface.php:578
+#: imic-framework/imic-shortcodes/imic-interface.php:616
+msgid "3"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:567
+#: imic-framework/imic-shortcodes/imic-interface.php:579
+#: imic-framework/imic-shortcodes/imic-interface.php:617
+msgid "4"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:568
+#: imic-framework/imic-shortcodes/imic-interface.php:580
+#: imic-framework/imic-shortcodes/imic-interface.php:618
+msgid "5"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:569
+#: imic-framework/imic-shortcodes/imic-interface.php:581
+#: imic-framework/imic-shortcodes/imic-interface.php:619
+msgid "6"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:574
+msgid "Number of rows"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:582
+#: imic-framework/imic-shortcodes/imic-interface.php:620
+msgid "7"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:583
+#: imic-framework/imic-shortcodes/imic-interface.php:621
+msgid "8"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:584
+#: imic-framework/imic-shortcodes/imic-interface.php:622
+msgid "9"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:585
+#: imic-framework/imic-shortcodes/imic-interface.php:623
+msgid "10"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:596
+msgid "List style"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:598
+msgid "Custom Unordered List"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:599
+msgid "Unordered List"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:600
+msgid "Ordered List"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:601
+msgid "Icon List"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:602
+msgid "Inline List"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:603
+msgid "Description List"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:607
+msgid "List icon"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:612
+msgid "Number of list items"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:639
+msgid "Tab ID"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:643
+msgid "Number of Tabs"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:653
+msgid "Accordion ID"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:657
+msgid "Number of Accordions"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:668
+msgid "Toggle ID"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:672
+msgid "Number of Toggles"
+msgstr ""
+
+#: imic-framework/imic-shortcodes/imic-interface.php:689
+msgid "Insert Shortcode"
+msgstr ""
+
+#: imic-framework/meta-box/inc/field.php:70
+#: imic-framework/meta-box/inc/meta-box.php:414
+msgid "+"
+msgstr ""
+
+#: imic-framework/meta-box/inc/meta-box.php:240
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: imic-framework/meta-box/inc/meta-box.php:436
+msgid "&#8211;"
+msgstr ""
+
+#: imic-framework/meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: imic-framework/meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: imic-framework/meta-box/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: imic-framework/meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: imic-framework/meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: imic-framework/meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: imic-framework/meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: imic-framework/widgets/custom_category.php:8
+msgid "Display latest and selected post categories of different post type."
+msgstr ""
+
+#: imic-framework/widgets/custom_category.php:26
+#: imic-framework/widgets/recent_sermons.php:26
+#: imic-framework/widgets/selected_post.php:28
+#: imic-framework/widgets/sermon_speakers.php:24
+#: imic-framework/widgets/upcoming_events.php:27
+#: imic-framework/widgets/twitter_feeds/twitter_feeds.php:31
+msgid "Title"
+msgstr ""
+
+#: imic-framework/widgets/recent_sermons.php:8
+msgid "Display recent sermons."
+msgstr ""
+
+#: imic-framework/widgets/recent_sermons.php:30
+msgid "Number of sermons to show"
+msgstr ""
+
+#: imic-framework/widgets/selected_post.php:8
+msgid "Display latest and selected post of different post type."
+msgstr ""
+
+#: imic-framework/widgets/selected_post.php:50
+msgid "Number of posts to show"
+msgstr ""
+
+#: imic-framework/widgets/sermon_speakers.php:8
+msgid "Display Sermon Speakers."
+msgstr ""
+
+#: imic-framework/widgets/upcoming_events.php:8
+msgid "Display Upcoming Events."
+msgstr ""
+
+#: imic-framework/widgets/upcoming_events.php:32
+msgid "Number of events to show"
+msgstr ""
+
+#: imic-framework/widgets/upcoming_events.php:37
+msgid "Select Category"
+msgstr ""
+
+#: imic-framework/widgets/upcoming_events.php:39
+msgid "All"
+msgstr ""
+
+#: imic-framework/widgets/twitter_feeds/tweets.php:6
+#: imic-framework/widgets/twitter_feeds/tweets.php:8
+#: imic-framework/widgets/twitter_feeds/tweets.php:10
+#: imic-framework/widgets/twitter_feeds/tweets.php:12
+msgid "Not properly configured, check settings"
+msgstr ""
+
+#: imic-framework/widgets/twitter_feeds/twitter_feeds.php:6
+msgid "Show latest twitter feeds."
+msgstr ""
+
+#: imic-framework/widgets/twitter_feeds/twitter_feeds.php:35
+msgid "Twitter Username"
+msgstr ""
+
+#: imic-framework/widgets/twitter_feeds/twitter_feeds.php:39
+msgid "Number of Feeds"
+msgstr ""
+
+#: imic-framework/widgets/twitter_feeds/twitter_feeds.php:43
+msgid "Consumer Key"
+msgstr ""
+
+#: imic-framework/widgets/twitter_feeds/twitter_feeds.php:47
+msgid "Consumer Key Secret"
+msgstr ""
+
+#: imic-framework/widgets/twitter_feeds/twitter_feeds.php:51
+msgid "Access Token"
+msgstr ""
+
+#: imic-framework/widgets/twitter_feeds/twitter_feeds.php:55
+msgid "Access Token Secret"
+msgstr ""
+
+#: includes/class-imic-plugin.php:241
+msgid "IMIC Framework has an embedded demo."
+msgstr ""
+
+#: includes/class-imic-plugin.php:241
+msgid "Click here to activate the sample config file."
+msgstr ""
+
+#: includes/class-imic-plugin.php:348
+msgid "Deactivate Demo Mode"
+msgstr ""
+
+#: includes/class-imic-plugin.php:350
+msgid "Activate Demo Mode"
+msgstr ""
+
+#: includes/sample-config.php:113
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/sample-config.php:185
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: includes/sample-config.php:189
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: includes/sample-config.php:193
+msgid "Tags"
+msgstr ""
+
+#: includes/sample-config.php:213
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: includes/sample-config.php:213
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: includes/sample-config.php:661 includes/core/framework.php:83
+#: includes/core/framework.php:89 includes/core/framework.php:224
+#: includes/core/framework.php:226
+msgid "IMIC Options"
+msgstr ""
+
+#: includes/sample-config.php:805
+msgid "Theme Information 1"
+msgstr ""
+
+#: includes/sample-config.php:809 includes/sample-config.php:829
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: includes/sample-config.php:825
+msgid "Theme Information 2"
+msgstr ""
+
+#: includes/sample-config.php:845
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: includes/sample-config.php:885
+msgid ""
+"<p>Did you know that IMIC Framework sets a global variable for you? To "
+"access any of your saved options from within your code you can use your "
+"global variable: <strong>$imic_options</strong></p>"
+msgstr ""
+
+#: includes/sample-config.php:893
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: includes/sample-config.php:1029
+msgid "General Settings"
+msgstr ""
+
+#: includes/sample-config.php:1049
+msgid "Enable Maintenance"
+msgstr ""
+
+#: includes/sample-config.php:1053
+msgid "Enable the themes in maintenance mode."
+msgstr ""
+
+#: includes/sample-config.php:1085
+msgid "Enable Responsive"
+msgstr ""
+
+#: includes/sample-config.php:1089
+msgid "Enable/Disable the responsive behaviour of the theme"
+msgstr ""
+
+#: includes/sample-config.php:1105
+msgid "Enable Back To Top"
+msgstr ""
+
+#: includes/sample-config.php:1107
+msgid ""
+"Enable the back to top button that appears in the bottom right corner of the "
+"screen."
+msgstr ""
+
+#: includes/sample-config.php:1131
+msgid "Custom favicon"
+msgstr ""
+
+#: includes/sample-config.php:1135
+msgid "Upload a image that will represent your website favicon"
+msgstr ""
+
+#: includes/sample-config.php:1159
+msgid "Tracking Code"
+msgstr ""
+
+#: includes/sample-config.php:1163
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the footer template of your theme."
+msgstr ""
+
+#: includes/sample-config.php:1195
+msgid "Custom admin login logo"
+msgstr ""
+
+#: includes/sample-config.php:1207
+msgid "Upload a 254 x 95px image here to replace the admin login logo."
+msgstr ""
+
+#: includes/sample-config.php:1239
+msgid "Header Options"
+msgstr ""
+
+#: includes/sample-config.php:1243
+msgid "<p class=\"description\">These are the options for the header.</p>"
+msgstr ""
+
+#: includes/sample-config.php:1267
+msgid "Upload Logo"
+msgstr ""
+
+#: includes/sample-config.php:1271
+msgid "Basic media uploader with disabled URL input field."
+msgstr ""
+
+#: includes/sample-config.php:1275
+msgid "Upload site logo to display in header."
+msgstr ""
+
+#: includes/sample-config.php:1299
+msgid "Enable Header Stick"
+msgstr ""
+
+#: includes/sample-config.php:1303
+msgid "Enable/Disable Header Stick behaviour of the theme"
+msgstr ""
+
+#: includes/sample-config.php:1325
+msgid "Top Bar Height"
+msgstr ""
+
+#: includes/sample-config.php:1329
+msgid "Enter height for top header bar"
+msgstr ""
+
+#: includes/sample-config.php:1333 includes/sample-config.php:1385
+#: includes/sample-config.php:1411
+msgid "80"
+msgstr ""
+
+#: includes/sample-config.php:1351
+msgid "Header Logo Height"
+msgstr ""
+
+#: includes/sample-config.php:1355
+msgid "Enter the height for Logo"
+msgstr ""
+
+#: includes/sample-config.php:1359
+msgid "65"
+msgstr ""
+
+#: includes/sample-config.php:1377
+msgid "Slider Top Height"
+msgstr ""
+
+#: includes/sample-config.php:1381
+msgid "Enter the height from top for slider."
+msgstr ""
+
+#: includes/sample-config.php:1403
+msgid "Slider Margin For Bottom"
+msgstr ""
+
+#: includes/sample-config.php:1407
+msgid "Enter the bottom margin for slider."
+msgstr ""
+
+#: includes/sample-config.php:1435
+msgid "Footer Options"
+msgstr ""
+
+#: includes/sample-config.php:1439
+msgid "<p class=\"description\">These are the options for the footer.</p>"
+msgstr ""
+
+#: includes/sample-config.php:1459
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: includes/sample-config.php:1463
+msgid " Enter Copyright Text"
+msgstr ""
+
+#: includes/sample-config.php:1467
+msgid "All Rights Reserved"
+msgstr ""
+
+#: includes/sample-config.php:1491
+msgid "Facebook URL to link your social bar's facebook icon."
+msgstr ""
+
+#: includes/sample-config.php:1495
+msgid "Enter your facebook URL for your theme footer."
+msgstr ""
+
+#: includes/sample-config.php:1523
+msgid "Twitter URL to link your social bar's twitter icon."
+msgstr ""
+
+#: includes/sample-config.php:1527
+msgid "Enter your twitter URL for your theme footer."
+msgstr ""
+
+#: includes/sample-config.php:1555
+msgid "Pinterest URL to link your social bar's Pinterest icon."
+msgstr ""
+
+#: includes/sample-config.php:1559
+msgid "Enter your Pinterest URL for your theme footer."
+msgstr ""
+
+#: includes/sample-config.php:1587
+msgid "Google+ URL to link your social bar's googleplus icon."
+msgstr ""
+
+#: includes/sample-config.php:1591
+msgid "Enter your googleplus URL for your theme footer."
+msgstr ""
+
+#: includes/sample-config.php:1615
+msgid "Youtube"
+msgstr ""
+
+#: includes/sample-config.php:1619
+msgid "Youtube URL to link your social bar's youtube icon."
+msgstr ""
+
+#: includes/sample-config.php:1623
+msgid "Enter your Youtube URL for your theme footer."
+msgstr ""
+
+#: includes/sample-config.php:1647
+msgid "Instagram"
+msgstr ""
+
+#: includes/sample-config.php:1651
+msgid "Instagram URL to link your social bar's Instagram icon."
+msgstr ""
+
+#: includes/sample-config.php:1655
+msgid "Enter your Instagram URL for your theme footer."
+msgstr ""
+
+#: includes/sample-config.php:1679
+msgid "Rss"
+msgstr ""
+
+#: includes/sample-config.php:1683
+msgid "Rss URL to link your  Rss icon."
+msgstr ""
+
+#: includes/sample-config.php:1687
+msgid "Enter your Rss URL for you theme footer."
+msgstr ""
+
+#: includes/sample-config.php:1715
+msgid "Theme Color Options"
+msgstr ""
+
+#: includes/sample-config.php:1739 includes/sample-config.php:1879
+msgid "Page Layout"
+msgstr ""
+
+#: includes/sample-config.php:1743 includes/sample-config.php:1883
+msgid "Select the page layout type"
+msgstr ""
+
+#: includes/sample-config.php:1751
+msgid "Pre-Defined Color Schemes"
+msgstr ""
+
+#: includes/sample-config.php:1755
+msgid "Custom Color"
+msgstr ""
+
+#: includes/sample-config.php:1787
+msgid "Theme Color Scheme"
+msgstr ""
+
+#: includes/sample-config.php:1791
+msgid "Select your themes alternative color scheme."
+msgstr ""
+
+#: includes/sample-config.php:1823
+msgid "Custom Theme Color"
+msgstr ""
+
+#: includes/sample-config.php:1827
+msgid "Pick a color for the template."
+msgstr ""
+
+#: includes/sample-config.php:1855
+msgid "Layout Options"
+msgstr ""
+
+#: includes/sample-config.php:1927
+msgid "Repeatable Background Images"
+msgstr ""
+
+#: includes/sample-config.php:1931
+msgid "Select image to set in background."
+msgstr ""
+
+#: includes/sample-config.php:2031
+msgid "Upload Repeatable Background Image"
+msgstr ""
+
+#: includes/sample-config.php:2063
+msgid "Upload Full Screen Background Image"
+msgstr ""
+
+#: includes/sample-config.php:2087
+msgid "Custom CSS/JS"
+msgstr ""
+
+#: includes/sample-config.php:2111
+msgid "CSS Code"
+msgstr ""
+
+#: includes/sample-config.php:2115
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: includes/sample-config.php:2155
+msgid "JS Code"
+msgstr ""
+
+#: includes/sample-config.php:2159
+msgid "Paste your JS code here."
+msgstr ""
+
+#: includes/sample-config.php:2255
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: includes/sample-config.php:2259
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: includes/sample-config.php:2263
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: includes/sample-config.php:2275
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: includes/sample-config.php:2299 includes/sample-config.php:2415
+msgid "Documentation"
+msgstr ""
+
+#: includes/sample-config.php:2359
+msgid "Theme Information"
+msgstr ""
+
+#: includes/sample-config.php:2363
+msgid ""
+"<p class=\"description\">This is the Description. Again HTML is allowed</p>"
+msgstr ""
+
+#: includes/core/framework.php:238
+msgid "Options panel created using"
+msgstr ""
+
+#: includes/core/framework.php:238
+msgid "IMIC Framework"
+msgstr ""
+
+#: includes/core/framework.php:819 includes/core/framework.php:820
+#: includes/core/framework.php:1734
+msgid "Import / Export"
+msgstr ""
+
+#: includes/core/framework.php:830 includes/core/framework.php:831
+#: includes/core/framework.php:1750 includes/core/framework.php:1852
+msgid "Options Object"
+msgstr ""
+
+#: includes/core/framework.php:841 includes/core/framework.php:842
+#: includes/core/framework.php:1764 includes/core/framework.php:1872
+msgid "System Info"
+msgstr ""
+
+#: includes/core/framework.php:1029
+#: includes/core/extensions/customizer/extension_customizer.php:291
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: includes/core/framework.php:1030
+#: includes/core/extensions/customizer/extension_customizer.php:292
+msgid "Are you sure Resetting will lose all custom values."
+msgstr ""
+
+#: includes/core/framework.php:1031
+#: includes/core/extensions/customizer/extension_customizer.php:293
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: includes/core/framework.php:1596
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: includes/core/framework.php:1650
+msgid "Expand"
+msgstr ""
+
+#: includes/core/framework.php:1652 includes/core/framework.php:1902
+msgid "Save Changes"
+msgstr ""
+
+#: includes/core/framework.php:1654 includes/core/framework.php:1904
+msgid "Reset to Defaults"
+msgstr ""
+
+#: includes/core/framework.php:1657 includes/core/framework.php:1907
+msgid "Working..."
+msgstr ""
+
+#: includes/core/framework.php:1664
+msgid "Settings Imported!"
+msgstr ""
+
+#: includes/core/framework.php:1666
+msgid "Settings Saved!"
+msgstr ""
+
+#: includes/core/framework.php:1670
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: includes/core/framework.php:1671
+msgid "error(s) were found!"
+msgstr ""
+
+#: includes/core/framework.php:1672
+msgid "warning(s) were found!"
+msgstr ""
+
+#: includes/core/framework.php:1801
+msgid "Import / Export Options"
+msgstr ""
+
+#: includes/core/framework.php:1802
+msgid "Import Options"
+msgstr ""
+
+#: includes/core/framework.php:1803
+msgid "Import from file"
+msgstr ""
+
+#: includes/core/framework.php:1803
+msgid "Import from URL"
+msgstr ""
+
+#: includes/core/framework.php:1808
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: includes/core/framework.php:1818
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: includes/core/framework.php:1825
+msgid "Import"
+msgstr ""
+
+#: includes/core/framework.php:1825
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: includes/core/framework.php:1828
+msgid "Export Options"
+msgstr ""
+
+#: includes/core/framework.php:1830
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: includes/core/framework.php:1834
+msgid "Copy"
+msgstr ""
+
+#: includes/core/framework.php:1834
+msgid "Download"
+msgstr ""
+
+#: includes/core/framework.php:1834
+msgid "Copy Link"
+msgstr ""
+
+#: includes/core/framework.php:1861
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: includes/core/extensions/customizer/extension_customizer.php:322
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: includes/core/extensions/customizer/extension_customizer.php:323
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: includes/core/extensions/customizer/extension_customizer.php:324
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: includes/core/extensions/edd/extension_edd.php:58
+#: includes/core/extensions/edd/extension_edd.php:124
+#: includes/core/extensions/edd/module.php:145
+#: includes/core/extensions/edd/edd_license/field_edd_license.php:95
+msgid "Valid"
+msgstr ""
+
+#: includes/core/extensions/edd/extension_edd.php:118
+#: includes/core/extensions/edd/edd_license/field_edd_license.php:89
+msgid "Not Activated"
+msgstr ""
+
+#: includes/core/extensions/edd/extension_edd.php:121
+#: includes/core/extensions/edd/edd_license/field_edd_license.php:93
+msgid "Deactivated"
+msgstr ""
+
+#: includes/core/extensions/edd/extension_edd.php:127
+msgid "Not Valid"
+msgstr ""
+
+#: includes/core/extensions/edd/module.php:11
+msgid "Licensing"
+msgstr ""
+
+#: includes/core/extensions/edd/module.php:16
+msgid "Shoestrap Theme Licence"
+msgstr ""
+
+#: includes/core/extensions/edd/module.php:17
+msgid "Enter your shoestrap licence to enable automatic updates."
+msgstr ""
+
+#: includes/core/extensions/edd/module.php:147
+msgid "Invalid"
+msgstr ""
+
+#: includes/core/extensions/edd/edd_license/EDD_License_Handler.php:112
+#, php-format
+msgid "%1$s License Key"
+msgstr ""
+
+#: includes/core/extensions/edd/edd_license/EDD_License_Handler.php:218
+#: includes/core/extensions/edd/edd_license/field_edd_license.php:121
+msgid "Deactivate License"
+msgstr ""
+
+#: includes/core/extensions/edd/edd_license/EDD_SL_Theme_Updater.php:54
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: includes/core/extensions/edd/edd_license/field_edd_license.php:102
+msgid "License Status"
+msgstr ""
+
+#: includes/core/extensions/edd/edd_license/field_edd_license.php:111
+msgid "Verify License"
+msgstr ""
+
+#: includes/core/extensions/edd/edd_license/field_edd_license.php:116
+msgid "Activate License"
+msgstr ""
+
+#: includes/core/inc/tracking.php:52
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: includes/core/inc/tracking.php:53
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test with."
+msgstr ""
+
+#: includes/core/inc/tracking.php:58
+msgid "Allow tracking"
+msgstr ""
+
+#: includes/core/inc/tracking.php:63
+msgid "Do not allow tracking"
+msgstr ""
+
+#: includes/core/inc/fields/color/field_color.php:51
+msgid "Transparent"
+msgstr ""
+
+#: includes/core/inc/fields/link_color/field_link_color.php:62
+msgid "Regular"
+msgstr ""
+
+#: includes/core/inc/fields/link_color/field_link_color.php:68
+msgid "Hover"
+msgstr ""
+
+#: includes/core/inc/fields/link_color/field_link_color.php:74
+msgid "Active"
+msgstr ""
+
+#: includes/core/inc/fields/media/field_media.php:95
+msgid "None media selected"
+msgstr ""
+
+#: includes/core/inc/fields/media/field_media.php:127
+msgid "Upload"
+msgstr ""
+
+#: includes/core/inc/fields/select/field_select.php:63
+msgid "Select an item"
+msgstr ""
+
+#: includes/core/inc/fields/select/field_select.php:83
+msgid "No items of this type were found."
+msgstr ""
+
+#: includes/core/inc/validation/color/validation_color.php:13
+#: includes/core/inc/validation/color_rgba/validation_color_rgba.php:13
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: includes/core/inc/validation/comma_numeric/validation_comma_numeric.php:13
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: includes/core/inc/validation/date/validation_date.php:13
+msgid "This field must be a valid date."
+msgstr ""
+
+#: includes/core/inc/validation/email/validation_email.php:13
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: includes/core/inc/validation/no_html/validation_no_html.php:13
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: includes/core/inc/validation/no_special_chars/validation_no_special_chars.php:13
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: includes/core/inc/validation/numeric/validation_numeric.php:13
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: includes/core/inc/validation/url/validation_url.php:13
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../../../wp-includes/locale.php:131 ../../../wp-includes/locale.php:146
+msgid "January"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:146
+msgid "Jan_January_abbreviation"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:132 ../../../wp-includes/locale.php:147
+msgid "February"
+msgstr ""
+
+#: template-home.php template-event.php imic-theme-functions.php
+msgid "Jan"
+msgstr ""
+
+#: template-home.php template-event.php imic-theme-functions.php
+msgid "Feb"
+msgstr ""
+
+#: template-home.php template-event.php imic-theme-functions.php
+msgid "Mar"
+msgstr ""
+
+#: template-home.php template-event.php imic-theme-functions.php
+msgid "Apr"
+msgstr ""
+
+#: template-home.php template-event.php imic-theme-functions.php
+msgid "Jun"
+msgstr ""
+
+#: template-home.php template-event.php imic-theme-functions.php
+msgid "Jul"
+msgstr ""
+
+#: template-home.php template-event.php imic-theme-functions.php
+msgid "Aug"
+msgstr ""
+
+#: template-home.php template-event.php imic-theme-functions.php
+msgid "Sep"
+msgstr ""
+
+#: template-home.php template-event.php imic-theme-functions.php
+msgid "Oct"
+msgstr ""
+
+#: template-home.php template-event.php imic-theme-functions.php
+msgid "Nov"
+msgstr ""
+
+#: template-home.php template-event.php imic-theme-functions.php
+msgid "Dec"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:147
+msgid "Feb_February_abbreviation"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:133 ../../../wp-includes/locale.php:148
+msgid "March"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:147
+msgid "Mar_March_abbreviation"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:134 ../../../wp-includes/locale.php:149
+msgid "April"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:149
+msgid "Apr_April_abbreviation"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:135 ../../../wp-includes/locale.php:150
+msgid "May"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:150
+msgid "May_May_abbreviation"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:136 ../../../wp-includes/locale.php:151
+msgid "June"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:151
+msgid "Jun_June_abbreviation"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:137 ../../../wp-includes/locale.php:152
+msgid "July"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:152
+msgid "Jul_July_abbreviation"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:138 ../../../wp-includes/locale.php:153
+msgid "August"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:153
+msgid "Aug_August_abbreviation"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:139 ../../../wp-includes/locale.php:154
+msgid "September"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:154
+msgid "Sep_September_abbreviation"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:140 ../../../wp-includes/locale.php:155
+msgid "October"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:155
+msgid "Oct_October_abbreviation"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:141 ../../../wp-includes/locale.php:156
+msgid "November"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:156
+msgid "Nov_November_abbreviation"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:142 ../../../wp-includes/locale.php:157
+msgid "December"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:157
+msgid "Dec_December_abbreviation"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:99 ../../../wp-includes/locale.php:109
+msgid "Sunday"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:100 ../../../wp-includes/locale.php:110
+msgid "Monday"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:101 ../../../wp-includes/locale.php:111
+msgid "Tuesday"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:102 ../../../wp-includes/locale.php:112
+msgid "Wednesday"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:103 ../../../wp-includes/locale.php:113
+msgid "Thursday"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:104 ../../../wp-includes/locale.php:114
+msgid "Friday"
+msgstr ""
+
+#: ../../../wp-includes/locale.php:105 ../../../wp-includes/locale.php:115
+msgid "Saturday"
+msgstr ""
