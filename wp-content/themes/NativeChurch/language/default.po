@@ -126,7 +126,7 @@ msgid "Search Results for :  %s"
 msgstr ""
 
 #: header.php:199
-msgid "Blog"
+msgid "News"
 msgstr ""
 
 #: header.php:235
