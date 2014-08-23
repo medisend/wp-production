@@ -203,7 +203,7 @@
                                   </div>';
                                 } else {
                                     if($page_for_posts==0){
-                                        $imic_post_custom_title=__('Blog','framework');
+                                        $imic_post_custom_title=__('News','framework');
                                     }
                                     else if($page_for_posts>0){
                                         $imic_post_custom_title=get_the_title($page_for_posts);

@@ -127,7 +127,7 @@ msgstr ""
 
 #: header.php:199
 msgid "Blog"
-msgstr "News"
+msgstr ""
 
 #: header.php:235
 msgid "All sermons"
