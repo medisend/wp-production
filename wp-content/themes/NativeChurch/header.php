@@ -229,6 +229,7 @@
                                       </div>';
                                 } else {
                                 $imic_post_custom_title = !empty($custom['imic_post_page_custom_title'][0]) ? $custom['imic_post_page_custom_title'][0] : get_the_title();
+                                if ($imic_post_custom_title == 'Blog') { $imic_post_custom_title = 'News'}
                                 $eterm = get_the_terms(get_the_ID(), 'event-category');
                                   echo '<div class="col-md-10 col-sm-10 col-xs-8">
                                     <h1>' . $imic_post_custom_title . '</h1>
