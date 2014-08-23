@@ -224,7 +224,7 @@ msgstr "Resultados da busca para: %s"
 #: ../NativeChurchLast19042014/header.php:199
 #: ../NativeChurchold/header.php:138
 msgid "Blog"
-msgstr "Blog"
+msgstr "News"
 
 #: header.php:242 ../NativeChurch/header.php:242
 #: ../NativeChurch04042014/header.php:222
