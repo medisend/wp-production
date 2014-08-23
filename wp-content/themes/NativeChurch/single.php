@@ -19,13 +19,6 @@ the_author_meta('user_nicename', $author_id); ?></span><span><i class="fa fa-arc
                         _e('Categories: ', 'framework');
                         echo '<a href="' . get_category_link($cats[0]->term_id) . '">' . $cats[0]->name . '</a>';
                         ?> </span></span>
-                <div class="featured-image">
-                    <?php
-                    if (has_post_thumbnail()):
-                        the_post_thumbnail('full');
-                    endif;
-                    ?>
-                </div>
                 <?php
                 while (have_posts()):the_post();
                     the_content();
