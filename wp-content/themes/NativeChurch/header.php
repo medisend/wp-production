@@ -221,33 +221,6 @@
                                     }
                                 }
                             }
-                            if (get_post_type($id) == 'sermons') {
-                                $term = get_term_by('slug', get_query_var('term'), get_query_var('taxonomy'));
-                                if (!empty($term->term_id)) {
-                                    echo '<div class="col-md-12">
-                                        <h1>' . __('All Posts For - ', 'framework') . $term->name . '</h1>
-                                      </div>';
-                                } else {
-                                    $imic_post_custom_title = !empty($custom['imic_post_page_custom_title'][0]) ? $custom['imic_post_page_custom_title'][0] : get_the_title();
-                                    $sterm = get_the_terms(get_the_ID(), 'sermons-category');
-                                    echo '<div class="col-md-10 col-sm-10 col-xs-8">
-                                            <h1>' . $imic_post_custom_title . '</h1>
-                                          </div>';
-                                    if (!empty($sterm)) {
-                                        $i = 1;
-                                        foreach ($sterm as $terms) {
-                                            if ($i == 1) {
-                                           $term_link = get_term_link($terms, 'sermons-category');
-                                           echo'<div class="col-md-2 col-sm-2 col-xs-4">
-                                                <a href="' . $term_link . '" class="pull-right btn btn-primary">' . __('All sermons', 'framework') . '</a>
-                                                </div>';
-                                                }
-                                            $i++;
-                                        }
-                                          
-                                    }
-                                }
-                            }
                             if (get_post_type($id) == 'event') {
 								$term = get_term_by('slug', get_query_var('term'), get_query_var('taxonomy'));
                                 if (!empty($term->term_id)) {
