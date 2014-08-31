@@ -57,11 +57,6 @@ get_header();
 
                             break;
                         default:
-                            if (has_post_thumbnail()) {
-                                echo '<a href="' . get_permalink() . '">' .
-                                get_the_post_thumbnail(get_the_ID(), 'full', array('class' => "img-thumbnail")) .
-                                '</a>';
-                            }
                             break;
                     }
                     the_content();
