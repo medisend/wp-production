@@ -256,7 +256,7 @@ if (!function_exists('imic_custom_styles')) {
         // Custom CSS
         $custom_css = $options['custom_css'];
 		 $header_height = $options['header_area_height'];
-                        $header_height=!empty($header_height)?$header_height:0;
+                        $header_height=!empty($header_height)?$header_height:80;
 			$logo_height=!empty($header_height)?$header_height-15:65;
                        $slider_height=!empty($header_height)?$header_height+1:81;
 		      $slider_margin=!empty($header_height)?$header_height+1:81;
